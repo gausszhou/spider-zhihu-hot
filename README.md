@@ -5,8 +5,8 @@
 ## 使用指南
 
 1. 登录知乎
-2. 浏览器安装 Cookie Editor
-3. 之后使用 Cookie Editor export `.zhihu.com` 下的 cookie 到 `./env/cookies.json`
+2. 浏览器安装 Cookie Editor 插件
+3. 之后使用 Cookie Editor `export` cookie 到 `./env/cookies.json`
 4. pnpm start
 
 ## 结果示例
