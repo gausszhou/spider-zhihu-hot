@@ -1,0 +1,24 @@
+{
+  "name": "spider-zhihu-hot",
+  "version": "1.0.0",
+  "description": "爬取知乎热榜",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gausszhou/spider-zhihu-hot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gausszhou/spider-zhihu-hot/issues"
+  },
+  "homepage": "https://github.com/gausszhou/spider-zhihu-hot#readme",
+  "dependencies": {
+    "puppeteer": "^24.7.2"
+  }
+}
